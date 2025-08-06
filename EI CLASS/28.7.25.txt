@@ -1,0 +1,43 @@
+ls - rootdirectory
+cd - change directory
+make a directory - mkdir 
+to creat a file - touch name.format
+vim name.format - to give a text editor
+mode - I - enter-(insert)
+For change mode & escape :wq!- save and quit and enter 
+cat name.format - to view the txt
+ls -la to see the details of the file
+To remove folder - rm hi.txt
+To delete complete folder - cd .. - rm -rf demo/
+to return to start or another folder cd ..
+
+OPEN GITHUB
+1 Centeal repositary
+2 Local repository
+
+git init - To inilise the git
+git:(main)*
+
+To remove the wrong file
+git:(main)*rm -rf.git
+Del file
+rm filename.txt
+del folder
+rm -r foldername
+rm -rf foldername 
+
+track the file 
+ls - track file 
+git status
+git add - add a file 
+git add. - modify file by add 
+1 add
+2 status  }- done before sending to local repository
+3 commit
+
+git commit -m "message given " +enater
+
+git log - to check the commit status
+git config__ list
+git config user.name "name" - enter
+git config __ global user.email id
